@@ -18,7 +18,18 @@ Esperamos que este site seja uma fonte valiosa de informações e uma plataforma
 - ``CSS``
 - ``JavaScript``
 
-Obrigado por ler sobre o meu projeto e espero que isso inspire outras pessoas a experimentar a programação. :computer:
+### :girl: :boy: Integrantes do Trabalho
+- Eduardo Derick 
+- Daniel Praes
+- Érika Soares
+- Gabriela Garcia
+- Isabela Sant 'Ana
+- Kaique Oliveira
+- Leonardo Lisboa
+- Lucas Emanuel
+- Renan Prospero
+
+Obrigado por ler sobre e espero que isso inspire outras pessoas a experimentar a programação. :computer:
 
 :notebook_with_decorative_cover: acesse: https://workingatvar.bohr.io
 
